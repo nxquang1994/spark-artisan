@@ -1,3 +1,4 @@
-{"name":"Michael"}
-{"name":"Andy", "age":30}
-{"name":"Justin", "age":19}
+{"name":"Michael", "revenue": 50000.37, "introdution": "A boy who love to play tennis, golf and relax in massage roon"}
+{"name":"Andy", "age":30, "revenue": 55000.25 "introduction": "A guy who likes the exercise for power such as: golf, tennis and hockey. He often organize party in luxury hotel"}
+{"name":"Justin", "age":19, "revenue": 66000.46, "introduction": "A boy does not like sport. His passion is singing and composing the buffalo music for the young"}
+{"name": "Paxton", "age": 30, "revenue": 7900.990, "introduction": "An individual likes sport which are familiar with environment likes: running, swimming and bicycle"}
